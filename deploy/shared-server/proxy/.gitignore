@@ -1,0 +1,5 @@
+config/mihomo.yaml
+providers/
+logs/
+run/
+tmp/
